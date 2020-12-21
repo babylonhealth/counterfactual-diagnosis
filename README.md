@@ -13,7 +13,7 @@ Improving the accuracy of medical diagnosis with causal machine learning, by Jon
 URL https://www.nature.com/articles/s41467-020-17419-7
 
 ## Citation
-
+```
 @article{richens2020improving,
   title={Improving the accuracy of medical diagnosis with causal machine learning},
   author={Richens, Jonathan G and Lee, Ciar{\'a}n M and Johri, Saurabh},
@@ -24,6 +24,7 @@ URL https://www.nature.com/articles/s41467-020-17419-7
   year={2020},
   publisher={Nature Publishing Group}
 }
+```
 
 ## Requirements
 
