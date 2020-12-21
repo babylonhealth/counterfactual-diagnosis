@@ -1,0 +1,7 @@
+*.todo
+.DS_store
+__pycache__/
+data/*npy
+results
+*ipynb
+.ipynb_checkpoints
