@@ -40,6 +40,8 @@ pip install -r requiurements.txt
 
 The upcoming release of the code will include an API to allow the vignettes to be run on the models used in the [1]. In the interim, the --reproduce flag runs the code on precompied results to produce the results presented in [1]. Running run.py without --reproduce will run the inference engine on the models included in the repo, which are random noisy-OR networks. To run your own models, replace these and run the create_marginals method. 
 
+**Please note that any information not used to generate the results in [1] is not included in the clinical vignettes. This includes doctor and patient information, and specifics such as disease and symptom concepts (other than the rareness of a disease)**
+
 To reproduce the results from the paper:
 
 ```
