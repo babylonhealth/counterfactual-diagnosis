@@ -10,6 +10,8 @@ For any further enquiries, please contact the lead author at jonathan.richens@ba
 
 [2] https://patents.google.com/patent/US20200279655A1/en
 
+Repo DOI: https://zenodo.org/badge/DOI/10.5281/zenodo.4575649.svg
+
 ## Paper
 
 Improving the accuracy of medical diagnosis with causal machine learning, by Jonathan G. Richens, Ciarán M. Lee & Saurabh Johri. Published in nature communications. 
