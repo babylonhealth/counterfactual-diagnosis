@@ -1,5 +1,7 @@
 # Improving the accuracy of medical diagnosis with causal machine learning
 
+![](https://zenodo.org/badge/DOI/10.5281/zenodo.4575649.svg)
+
 This is to accompany the paper [1], and is intended for the purposes of i) replicating the experimental results reported in [1], and ii) enabling researchers to try our counterfactual diagnostic algorithms on their own models. The code and accompanying files are not to be published or used for any other purpose without the express authorisation of the authors of [1]. The counterfactual ranking algorithm currently under patent application [2]. The inference engine used in this code is designed to run on a personal computer, and as a result, some probabilistic results may vary to the order of 0.1% due to numerical differences. The code, models and data included in the release was generated for the purposes of this study, and does not reflect any model or implimentation in production currently or at any previous point at Babylon Partners Limited.
 
 For any further enquiries, please contact the lead author at jonathan.richens@babylonhealth.com, I'd be happy to help!
